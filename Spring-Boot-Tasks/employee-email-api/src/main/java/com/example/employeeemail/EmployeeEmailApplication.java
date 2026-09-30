@@ -1,0 +1,11 @@
+package com.example.employeeemail;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeeEmailApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(EmployeeEmailApplication.class, args);
+    }
+}
